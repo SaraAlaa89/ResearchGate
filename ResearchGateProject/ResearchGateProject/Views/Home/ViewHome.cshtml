@@ -1,0 +1,69 @@
+﻿@model List<ResearchGateProject.Models.Paper>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <!-- Main stylesheet -->
+    <link href="~/Content/Designs/home.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="home.css">
+</head>
+<body>
+    <!-- 0 landing -->
+    <div class="landing">
+        <div class="container">
+            <div class="header">
+                <div class="head">
+                    <img src="../images/icon.png">
+                    <h2>Re<span style="color:#01BC9A">search</span>Gate</h2>
+                </div>
+                <ul>
+                    <li>
+                        @using (Html.BeginForm("Search", "Home", FormMethod.Post))
+                        {
+                            <form>
+                                <button class="search-bt">search</button>
+                                <input class="searchh" type="search" name="need" placeholder="search">
+                            </form>
+                        }
+
+                    </li>
+                    <li><a href="@Url.Action("ViewProfile","User")"><h3>profile</h3></a></li>
+                    <li><a href="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                    <li><a href="@Url.Action("Index", "User")"><h3>Log out</h3></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <!-- 1 landing -->
+    @foreach (var item in Model)
+    {
+        <section class="blog-me pt-100 pb-100" id="reasearch">
+            <a href="@Url.Action("OtherProfile", "Home",new{ id=item.AuthorID})" style=" position:absolute; left:0px;  "><img width="100px" height="141px" src="../images/profil-pic.jpg" alt="" /></a>
+            <div class="container">
+                <!-- Single paprer #1 -->
+
+                <div class="single-reasearch">
+                    <div class="reasearch-content">
+                        <div class="reasearch-title">
+                            <h1><a href="">@item.header</a></h1>
+                        </div>
+                        <fieldset>
+                            <legend>@item.catagory</legend>
+                            <textarea rows="6" cols="60" readonl> @item.content</textarea>
+                        </fieldset>
+                        <a style="background-color:#865FC5; " href="@Url.Action("ViewPaper", "Paper", @item)" class="box_btn">read more</a>
+                    </div>
+                </div>
+
+                <!-- end paper -->
+            </div>
+        </section>
+    }
+    </body>
+</html>
+

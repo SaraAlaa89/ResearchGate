@@ -1,0 +1,139 @@
+﻿@model ResearchGateProject.Models.Paper
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>show paper </title>
+    <link rel="stylesheet" type="text/css" href="viewpaper.css">
+    <link href="~/Content/Designs/viewpaper.css" rel="stylesheet" />
+    <style>
+        #increment, #decrement {
+            background-color: #18e0e7;
+            border: 1px solid black;
+            box-shadow: 2px red;
+            margin: 3px;
+            padding: 5px;
+        }
+
+            #increment:hover, #decrement:hover {
+                background-color: #14e68e;
+            }
+    </style>
+</head>
+<body>
+    <div class="landing">
+        <div class="container">
+            <div class="header">
+                <div class="head">
+                    <img src="../images/icon.png">
+                    <h2>Re<span style="color:#01BC9A">search</span>Gate</h2>
+                </div>
+                <ul>
+                    <li><a style="color:#01BC9A;" href="@Url.Action("ViewHome","Home")"><h3>Home</h3></a></li>
+                    <li><a href=""><h3>profile</h3></a></li>
+                    <li><a href="@Url.Action("Logout","User")"><h3>Log out</h3></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 1 paper -->
+    <div class="papersec">
+        <div class="container">
+            <div class="details">
+                <div class="paper">
+                    <h1>@Model.header</h1>
+                    <fieldset>
+                        <legend>Research paper</legend>
+                        <textarea rows="19" cols="71" readonl>@Model.content</textarea>
+                    </fieldset>
+                    <div class="info">
+                        <h2>Catagory:@Model.catagory</h2>
+                        <p>publish in<time>:@Model.Date</time></p>
+                        <div id="number">0</div>
+                        <button class="red" id="increment">Like</button>
+                        <button class="blue" id="decrement">dislike</button>
+                    </div>
+                    <!-- start comments -->
+                    @using (Html.BeginForm("AddComment", "Comment", FormMethod.Post))
+                    {
+                        <div class="comments">
+                            <div class="subscribe">
+                                <form action="post">
+                                    <input type="hidden" name="paperID" value="@Model.ID">
+                                    <input type="text" name="content" placeholder="Type comment here" required>
+                                    <input type="submit" name="submit">
+                                </form>
+                            </div>
+                        </div>
+                    }
+
+                    <!-- end comments -->
+                    @foreach (var item in ViewBag.comments)
+                    {
+                        <div class="comments">
+                            <h3>@item.content</h3>
+                        </div>
+                    }
+                </div>
+                <!-- end paper -->
+                <div class="boxes">
+                    <div class="box">
+                        <a href="@Url.Action("ViewProfile","User")"><img width="100px" height="141px" src="../images/profil-pic.jpg" alt="" /></a>
+                        <h3>@Session["Name"]</h3>
+                        <span class="title">@Session["email"]</span>
+                        <p>
+                            hi i'm :@Session["Name"]
+                            i'm in @Session["university"] university department of @Session["department"]
+                        </p>
+                    </div>
+
+                    <!-- end box -->
+                    <!-- #2 box -->
+                    <div class="boxes">
+                        <div class="box">
+                            <a href="#"><img width="100px" height="141px" src="../images/profil-pic.jpg" alt="" /></a>
+                            <h3>ahmed</h3>
+                            <span class="title">Ahmedeweiso@gmail.com</span>
+                            <p>
+                                hi i'm :ahmed
+                                i'm in helwan university department of IA
+                            </p>
+                        </div>
+
+                        <!-- end box -->
+
+                    </div>
+                </div>
+        </div>
+    </div>
+    <script>
+        let add = document.getElementById('increment');
+        let remove = document.getElementById('decrement');
+
+        let int = document.getElementById('number');
+        let integer = 0;
+        add.addEventListener('click', function () {
+            integer += 1;
+            int.innerHTML = integer;
+        })
+
+        remove.addEventListener('click', function () {
+            integer -= 1;
+            int.innerHTML = integer;
+        })
+        /*---------------------------------*/
+        document.querySelector('.info').addEventListener('click', function change(e) {
+            if (e.target.className == "red") {
+                document.querySelector('.red').style.backgroundColor = "#14e68e";
+                document.querySelector('.blue').style.backgroundColor = "#18E0E7";
+            }
+
+            if (e.target.className == "blue") {
+                document.querySelector('.blue').style.backgroundColor = "#14e68e";
+                document.querySelector('.red').style.backgroundColor = "#18E0E7";
+            }
+        })
+    </script>
+</body>
+</html>
+

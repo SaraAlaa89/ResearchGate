@@ -1,0 +1,114 @@
+﻿@import url('signupstyle.css');
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url('../../Images/Signup3.jpg');
+    background-size: cover;
+    font-family: Serif;
+}
+
+
+h2 {
+    color:green;
+}
+
+.mob-img {
+    width: 600px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row-reverse;
+}
+
+.Signup {
+    width: 700px;
+    margin: 16px auto;
+    font-size: 16px;
+}
+
+.Signup-header {
+    background: #091117;
+    padding: 20px;
+    font-size: 1.4em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FF1552;
+    opacity: 0.8;
+}
+
+.Signup-container {
+    height: 100%;
+    background: #091117;
+    padding: 12px;
+    opacity: 0.8;
+}
+
+.Signup p {
+    padding: 12px;
+    display: inline-block;
+}
+
+.Signup input {
+    box-sizing: border-box;
+    width: 100%;
+    border: 3px solid blue;
+    border-radius: 40px;
+    padding: 14px;
+    font-family: inherit;
+    font-size: 10px;
+}
+
+    .Signup input[type="email"],
+    .Signup input[type="password"],
+    .Signup input[type="text"],
+    .Signup input[type="file"] {
+        background: #091117;
+        text-align: center;
+        font-size: 20px;
+        transition: 0.5s;
+        color: white;
+    }
+
+    .Signup input[type="file"] {
+        border-color: #33BE8F;
+    }
+
+        .Signup input[type="email"]:focus,
+        .Signup input[type="password"]:focus,
+        .Signup input[type="text"]:focus,
+        .Signup input[type="file"]:focus {
+            border-color: red;
+            transform: scale(1.1);
+            color: white;
+        }
+
+    .Signup input[type="submit"] {
+        background: #D3164F;
+        border-color: transparent;
+        color: white;
+        width: 100px;
+        font-size: 16px;
+    }
+
+        .Signup input[type="submit"]:hover {
+            background: #B71383;
+            color: black;
+            font-size: 17px;
+        }
+
+        .Signup input[type="submit"]:focus {
+            border-color: green;
+        }

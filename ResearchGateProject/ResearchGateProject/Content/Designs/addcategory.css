@@ -1,0 +1,96 @@
+﻿* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url('../../Images/Signup3.jpg');
+    background-size: cover;
+    font-family: Serif;
+}
+
+h2 {
+    color: red;
+}
+
+.mob-img {
+    width: 600px;
+}
+
+
+
+.login {
+    width: 400px;
+    margin: 250px auto;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+    .login h1 {
+        background-color: white;
+        width: 100%;
+    }
+
+.login-header {
+    padding: 20px;
+    font-size: 1.4em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FF1552;
+    opacity: 0.8;
+}
+
+
+.login p {
+    padding: 12px 0 12px 0;
+    display: inline-block;
+}
+
+
+
+.login input[type="text"] {
+    background: #091117;
+    text-align: center;
+    font-size: 32px;
+    transition: 0.5s;
+    color: white;
+    border-color: red;
+    width: 100%;
+    padding: 8px;
+}
+
+
+    .login input[type="text"]:focus {
+        border-color: red;
+        transform: scale(1.1);
+        color: white;
+    }
+
+.login input[type="submit"] {
+    background: #130E36;
+    border-color: transparent;
+    color: white;
+    font-size: 20px;
+    padding: 8px;
+    transition: 0.5s;
+}
+
+    .login input[type="submit"]:hover {
+        background: white;
+        color: #130F34;
+        font-size: 22px;
+    }
+
+    .login input[type="submit"]:focus {
+        border-color: white;
+    }

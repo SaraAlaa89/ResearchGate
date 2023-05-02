@@ -1,0 +1,75 @@
+﻿@model ResearchGateProject.Models.Author
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>profile</title>
+    <!-- Main stylesheet -->
+    <link href="~/Content/Designs/otherprofile.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- 0 landing -->
+    <div class="landing">
+        <div class="container">
+            <div class="content">
+                <div class="prof-img">
+                    <div class="cardProfile">
+                        <img src="../images/profilePhoto.jpg" class="profilePhoto" />
+                        <h1>@Model.Name</h1>
+                        <p class="department">@Model.department</p>
+                        <p class="university">@Model.university University</p>
+                        <p><button class="btt">@Model.email</button></p>
+                    </div>
+                </div>
+                <div class="line">.</div>
+                <div class="text">
+                    <h2>
+                        Let's Share Your Experience With Me Now! check my work anh join to me
+                    </h2>
+                    <p>Career Success of Women in Academic Psychiatry: Their Journey and Advice</p>
+                    <div class="buttons">
+                        <button class="sp-bt"><a class="sp-ah">My Work</a></button>
+                        <button></button><a style="color:#01BC9A;" href="#">contact with me</a></button>
+                    </div>
+                    <h6>@Model.email</h6>
+                    <div class="contact">
+                        <h4>@Model.phoneNumber</h4>
+                        <span>|</span>
+                        <h4 class="adr">@Model.adderss</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 1 landing -->
+    <section class="blog-me pt-100 pb-100" id="reasearch">
+        <div class="container">
+            <div class="section-title mb-100">
+                <h4>Author's recent publications</h4>
+            </div>
+            @foreach (var item in Model.papers)
+            {
+                <!-- Single paprer #1 -->
+                <div class="single-reasearch">
+                    <div class="reasearch-content">
+                        <div class="reasearch-title">
+                            <h1><a href="#">@item.header</a></h1>
+                        </div>
+                        <fieldset>
+                            <legend>Research paper</legend>
+                            <textarea rows="6" cols="60" readonl>@item.content</textarea>
+                        </fieldset>
+                        <a href="@Url.Action("ViewPaper","Paper",@item)" class="box_btn">read more</a>
+                    </div>
+                </div>
+
+
+                <!-- end paper -->
+            }
+
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,85 @@
+﻿* {
+    margin: 10px auto;
+}
+
+body {
+    background-color: #2266DD;
+}
+
+.frm {
+    display: flex;
+    justify-content: flex-start;
+    background: rgb(14,15,174);
+    background: linear-gradient(90deg, rgba(14,15,174,1) 10%, rgba(80,248,255,1) 50%, rgba(14,15,174,1) 90%);
+}
+
+h1 {
+    font-size: 18px;
+    color: #000;
+    background-color: white;
+    padding: 6px;
+}
+
+.h1 {
+    font-size: 18px;
+    color: #000;
+    background-color: white;
+    padding: 6px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    box-shadow: box-shadow: 6.4px 6.4px 2.2px rgba(0, 0, 0, 0.07), 12.9px 12.9px 5.3px rgba(0, 0, 0, 0.072), 20.2px 20.2px 10px rgba(0, 0, 0, 0.072), 29.9px 29.9px 17.9px rgba(0, 0, 0, 0.071), 46.9px 46.9px 33.4px rgba(0, 0, 0, 0.07), 100px 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+.flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+}
+
+.select {
+    font-size: 18px;
+    color: #000;
+    background-color: white;
+    padding: 6px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    box-shadow: box-shadow: 6.4px 6.4px 2.2px rgba(0, 0, 0, 0.07), 12.9px 12.9px 5.3px rgba(0, 0, 0, 0.072), 20.2px 20.2px 10px rgba(0, 0, 0, 0.072), 29.9px 29.9px 17.9px rgba(0, 0, 0, 0.071), 46.9px 46.9px 33.4px rgba(0, 0, 0, 0.07), 100px 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+    .select:hover, .h1:hover {
+        transform: scale(1.1);
+        color: white;
+        background-color: blue;
+        padding: 6px;
+        border: 1px solid blue;
+        border-radius: 8px;
+        box-shadow:
+    }
+
+    .select:hover {
+        color: white;
+    }
+
+.h1:hover {
+    background-color: white;
+}
+3
+.option {
+}
+
+.textarea {
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 8px;
+}
+
+.submitt {
+    font-size: 18px;
+    color: #000;
+    background-color: white;
+    padding: 6px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    box-shadow: box-shadow: 6.4px 6.4px 2.2px rgba(0, 0, 0, 0.07), 12.9px 12.9px 5.3px rgba(0, 0, 0, 0.072), 20.2px 20.2px 10px rgba(0, 0, 0, 0.072), 29.9px 29.9px 17.9px rgba(0, 0, 0, 0.071), 46.9px 46.9px 33.4px rgba(0, 0, 0, 0.07), 100px 100px 80px rgba(0, 0, 0, 0.07);
+}

@@ -1,0 +1,23 @@
+﻿@using (Html.BeginForm("AddCatagory", "Catagory", FormMethod.Post))
+{
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>add catagory</title>
+        <link href="~/Content/Designs/addcategory.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- page Content -->
+        <div class="flex">
+            <div class="login">
+                <h1 class="login-header">Add catagory</h1>
+                <form class="login-container" action="" method="get">
+                    <p><input type="text" name="type" placeholder="Add Category" required></p>
+                    <!-- submit button  -->
+                </form>
+                <input type="submit" name="submit">
+            </div>
+        </div>
+    </body>
+</html>
+}

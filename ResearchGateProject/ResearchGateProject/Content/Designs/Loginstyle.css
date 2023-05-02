@@ -1,0 +1,118 @@
+﻿* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url('../../Images/Signup3.jpg');
+    background-size: cover;
+    font-family: Serif;
+}
+
+h2 {
+    color: red;
+}
+
+.mob-img {
+    width: 600px;
+}
+
+.flex {
+    display: flex;
+    flex-flow: row-reverse;
+}
+
+.login {
+    width: 400px;
+    margin: auto auto;
+    font-size: 16px;
+}
+
+.login-header {
+    background: #091117;
+    padding: 20px;
+    font-size: 1.4em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FF1552;
+    opacity: 0.8;
+    width: 500px;
+    height: 100px;
+    border: 3px solid #FE4974;
+    border-radius: 30px;
+    border-bottom: 1px solid transparent;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    background: #091117;
+    padding: 12px;
+    opacity: 0.8;
+    width: 500px;
+    height: 300px;
+    border: 3px solid #B03399;
+    border-radius: 20px;
+    border-top: 1px solid transparent;
+}
+
+.login p {
+    padding: 12px;
+    display: inline-block;
+}
+
+.login input {
+    box-sizing: border-box;
+    width: 100%;
+    border: 3px solid blue;
+    border-radius: 40px;
+    padding: 14px;
+    font-family: inherit;
+    font-size: 10px;
+}
+
+    .login input[type="password"],
+    .login input[type="text"] {
+        background: #091117;
+        text-align: center;
+        font-size: 20px;
+        transition: 0.5s;
+        color: white;
+    }
+
+    .login input[type="file"] {
+        border-color: #33BE8F;
+    }
+
+    .login input[type="password"]:focus,
+    .login input[type="text"]:focus {
+        border-color: red;
+        transform: scale(1.1);
+        color: white;
+    }
+
+    .login input[type="submit"] {
+        background: #D3164F;
+        border-color: transparent;
+        color: white;
+        font-size: 20px;
+    }
+
+        .login input[type="submit"]:hover {
+            background: #B71383;
+            color: black;
+            font-size: 22px;
+        }
+
+        .login input[type="submit"]:focus {
+            border-color: green;
+        }

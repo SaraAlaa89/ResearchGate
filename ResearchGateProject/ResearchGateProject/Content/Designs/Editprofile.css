@@ -1,0 +1,77 @@
+﻿
+body {
+    margin: 0;
+    color: #2e323c;
+    background: #f5f6fa;
+    position: relative;
+}
+
+
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cardProfile {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin-left: 20px;
+    text-align: center;
+    background: lightblue;
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+    button:hover, a:hover {
+        opacity: 0.7;
+    }
+
+
+
+.profileHead {
+    padding: 20px;
+    color: darkslategrey;
+}
+
+span {
+    color: brown;
+}
+
+.controlText {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: darkslategrey;
+}
+
+.information {
+    width: 900px;
+    margin: 10px auto;
+    text-align: left;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+}
+
+input[type=submit] {
+    background-color: #02322f;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}

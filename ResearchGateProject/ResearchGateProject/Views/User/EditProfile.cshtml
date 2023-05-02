@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" type="text/css" href="editProfile.css" />
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="~/Content/Designs/Editprofile.css" rel="stylesheet" />
+</head>
+<body>
+
+    <section class="flex">
+        <div class="cardProfile">
+            <img src="profilePhoto.jpg" class="profilePhoto" />
+            <h1>Michael S. Dell</h1>
+            <p class="department"> Artificial intelligence,</p>
+            <p class="university">Harvard University</p>
+            <p><button>email</button></p>
+        </div>
+        <div class="information">
+            <div class="profileHead"><h1>Profile<span>Settings</span></h1></div> <hr />
+                 <div class="controlText">
+                     @using (Html.BeginForm("EditProfile", "User", FormMethod.Post))
+                     {
+                         <form class="Signup-container" action="" method="post">
+                         <div>First Name  <br /><input type="text" name="Name" value="@Session["Name"]"></div>
+                         <div>password<br /><input type="password" name="password" value="@Session["password"]"></div>
+                         <div>age <br /><input type="text" name="age" value="@Session["age"]"></div>
+                         <div>Department <br/><input type="text" name="department" value="@Session["department"]"></div>
+                         <div>University <br/><input type="text" name="university" value="@Session["university"]"></div>
+                         <div>Email  <br/> <input type="email" name="email" value="@Session["email"]"></div>
+                         <div>PhoneNumber<br /><input type="text" name="phoneNumber" value="@Session["phoneNumber"]"></div> <br />
+                         <div>address<br/><input type="text" name="adderss" value="@Session["adderss"]"></div> <br/>            
+                         <div>Change Picture? <input type="file" name="image"/></div>
+                         <br />
+                         <div>
+                             <input type="submit" value="Submit">
+                         </div>
+                     </form>
+                     }
+                     
+                        </div>
+        </div>
+    </section>
+
+
+</body>
+</html>

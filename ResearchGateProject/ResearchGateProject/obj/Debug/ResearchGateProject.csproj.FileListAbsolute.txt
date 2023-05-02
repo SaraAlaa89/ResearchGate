@@ -1,0 +1,269 @@
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.dll.config
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.pdb
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.exe
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.exe.config
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.rsp
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.exe
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.exe.config
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.rsp
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Console.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.exe
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.exe.config
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.rsp
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Helpers.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Mvc.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Optimization.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Razor.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\WebGrease.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Helpers.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Mvc.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Optimization.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Razor.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csprojAssemblyReference.cache
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.CopyComplete
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.dll
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.pdb
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.Migrations.first.resources
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.GenerateResource.cache
+C:\Users\Ahmed Hossam\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.Migrations.second.resources
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.dll.config
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.pdb
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.exe
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.exe.config
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.rsp
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.exe
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.exe.config
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.rsp
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.AppContext.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Console.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.exe
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.exe.config
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.rsp
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\Antlr3.Runtime.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\Newtonsoft.Json.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Helpers.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Mvc.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Optimization.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Razor.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\WebGrease.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Helpers.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Mvc.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Optimization.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Razor.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\Newtonsoft.Json.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\Antlr3.Runtime.pdb
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.Migrations.first.resources
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.Migrations.second.resources
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.CopyComplete
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.dll
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.pdb
+C:\Users\Ahmed\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.Migrations.awais.resources
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.dll.config
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\ResearchGateProject.pdb
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.exe
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.exe.config
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csc.rsp
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.exe
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.exe.config
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\csi.rsp
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Console.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.exe
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.exe.config
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\vbc.rsp
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\Antlr3.Runtime.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Helpers.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Mvc.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Optimization.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Razor.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\WebGrease.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Helpers.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Mvc.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Optimization.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Razor.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.Migrations.first.resources
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.Migrations.second.resources
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.Migrations.awais.resources
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.csproj.CopyComplete
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.dll
+C:\Users\DELL\source\repos\ResearchGateProject\ResearchGateProject\obj\Debug\ResearchGateProject.pdb
